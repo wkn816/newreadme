@@ -6,5 +6,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wkn816&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
