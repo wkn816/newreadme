@@ -9,3 +9,9 @@
 |  Twitter  |  [@98wkmon](https://twitter.com/98wkmon)  |
 |  Wantedly  |  [@wakana_ootsu](https://www.wantedly.com/id/wakana_ootsu)  |
 |  性格診断結果  |  [ウシ型](https://16test.uranaino.net/udata/58CtYQD2rpb657JxiN8M ) |
+
+|  年月  |  学歴・職歴  |
+| ---- | ---- |
+|  17/3~19/3  |  JTBトラベル＆ホテルカレッジ　  |
+|  19/4~20/9  |  [株式会社JTB] (https://www.jtbcorp.jp/jp/)|
+|  20/11~  |  プログラミングスクールDMMWEBCAMP&独学でプログラミングを学習 |
