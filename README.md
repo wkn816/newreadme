@@ -8,4 +8,4 @@
 |  Qiita  |  [@wkn816](https://qiita.com/wkn816)
 |  Twitter  |  [@98wkmon](https://twitter.com/98wkmon)  |
 |  Wantedly  |  [@wakana_ootsu](https://www.wantedly.com/id/wakana_ootsu)  |
-|  性格診断結果  |  [ウシ型](https://16test.uranaino.net/udata/58CtYQD2rpb657JxiN8M ) <br>マネージャー職が適職だそう  |
+|  性格診断結果  |  [ウシ型](https://16test.uranaino.net/udata/58CtYQD2rpb657JxiN8M ) |
